@@ -3,7 +3,7 @@ __pycache__/
 output/
 input/
 !input/example.png
-models/
+
 temp/
 custom_nodes/
 !custom_nodes/example_node.py.example
@@ -14,3 +14,7 @@ venv/
 web/extensions/*
 !web/extensions/logging.js.example
 !web/extensions/core/
+models/vae/
+models/facedetection/
+models/checkpoints/
+models/upscale_models/GFPGANv1.4.pth
